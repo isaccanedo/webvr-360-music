@@ -22,7 +22,7 @@ Inside Music Youtube Edition é construído com [aframe](https://aframe.io), [TH
 * [@alexanderchen](https://github.com/alexanderchen)
 * [@toxtli](https://github.com/toxtli)
 
-## Interaction
+## Interação
 
 Select a song from the menu. The stems of the song will appear in a circle around you, each represented by a sphere. In _Browser Mode_, tap the spheres to turn them on or off. In _VR Mode_, you can use your controller to toggle their state. On Google Cardboard, you will have a retical (a small circle in front of you eye) which can be used to turn the stems on and off.
 
