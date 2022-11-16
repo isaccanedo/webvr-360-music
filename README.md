@@ -50,7 +50,7 @@ Você pode criar facilmente a ferramenta e expor o servidor executando:
 npm run restart
 ```
 
-## Server side (music processing)
+## Lado do servidor (processamento de música)
 
 The provided code reads the songs list from a public URL. If you want to test the tool in your local environment, you have to set the audioDirectory variable to 'audio' in the src/Config.js file.
 
