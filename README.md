@@ -36,7 +36,7 @@ No terminal, dentro do diretório do projeto, instale todas as dependências do 
 npm install
 ```
 
-Then compile the source code with webpack:
+Em seguida, compile o código-fonte com o webpack:
 
 ```bash
 webpack -p
