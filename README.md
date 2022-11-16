@@ -52,7 +52,7 @@ npm run restart
 
 ## Lado do servidor (processamento de música)
 
-The provided code reads the songs list from a public URL. If you want to test the tool in your local environment, you have to set the audioDirectory variable to 'audio' in the src/Config.js file.
+O código fornecido lê a lista de músicas de um URL público. Se quiser testar a ferramenta em seu ambiente local, você deve definir a variável audioDirectory como 'audio' no arquivo src/Config.js.
 
 You have to install the requirements before executing the python script:
 
