@@ -28,7 +28,7 @@ Selecione uma música no menu. As hastes da música aparecerão em um círculo a
 
 ## Construir
 
-To build a local version of Inside Music, you will need to have Node.js and [webpack](https://webpack.github.io/) installed (<4.0).
+Para criar uma versão local do Inside Music, você precisará ter Node.js e [webpack](https://webpack.github.io/) instalados (<4.0).
 
 In the terminal, inside the project's directory, install all of the project's dependencies:
 
