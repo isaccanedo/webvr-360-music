@@ -14,7 +14,7 @@ Tente agora! [https://3dyt.hcilab.ml](https://3dyt.hcilab.ml)
 
 Inside Music Youtube Edition é construído com [aframe](https://aframe.io), [THREE.JS](https://threejs.org), [Tone.js](https://tonejs.github.io /) e [Spleeter](https://github.com/deezer/spleeter).
 
-## Contributors
+## Contribuidores
 
 * [@hapticdata](https://github.com/hapticdata)
 * [@tambien](https://github.com/tambien)
