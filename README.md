@@ -4,7 +4,7 @@ Inside Music YouTube Edition é um aplicativo da web que usa Inteligência Artif
 
 O áudio das músicas disponíveis não está incluído neste repositório. Para adicionar seu próprio áudio do YouTube e reproduzi-lo, use a interface para convertê-lo.
 
-This is an Experiment, not a Google product.
+Este é um experimento, não um produto do Google.
 
 ## Demo
 
