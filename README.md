@@ -24,7 +24,7 @@ Inside Music Youtube Edition é construído com [aframe](https://aframe.io), [TH
 
 ## Interação
 
-Selecione uma música no menu. As hastes da música aparecerão em um círculo ao seu redor, cada uma representada por uma esfera. No _Browser Mode_, toque nas esferas para ativá-las ou desativá-las. No _VR Mode_, você pode usar seu controlador para alternar seu estado. On Google Cardboard, you will have a retical (a small circle in front of you eye) which can be used to turn the stems on and off.
+Selecione uma música no menu. As hastes da música aparecerão em um círculo ao seu redor, cada uma representada por uma esfera. No _Browser Mode_, toque nas esferas para ativá-las ou desativá-las. No _VR Mode_, você pode usar seu controlador para alternar seu estado. No Google Cardboard, você terá um retículo (um pequeno círculo na frente do olho) que pode ser usado para ligar e desligar as hastes.
 
 ## Build
 
