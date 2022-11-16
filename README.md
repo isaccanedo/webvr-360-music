@@ -44,7 +44,7 @@ webpack -p
 
 Agora você pode executar um servidor local como `http-server`. Para instalar o `http-server`, execute `npm install -g http-server`. Agora você pode visualizar o site em um navegador.
 
-You can easily build the tool and expose the server by running:
+Você pode criar facilmente a ferramenta e expor o servidor executando:
 
 ```bash
 npm run restart
