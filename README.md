@@ -42,7 +42,7 @@ Em seguida, compile o código-fonte com o webpack:
 webpack -p
 ```
 
-You can now run a local server such as `http-server`. To install `http-server`, run `npm install -g http-server`. You can now view the site in a browser.
+Agora você pode executar um servidor local como `http-server`. Para instalar o `http-server`, execute `npm install -g http-server`. Agora você pode visualizar o site em um navegador.
 
 You can easily build the tool and expose the server by running:
 
