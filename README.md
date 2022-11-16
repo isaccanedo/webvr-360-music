@@ -8,7 +8,7 @@ Este é um experimento, não um produto do Google.
 
 ## Demo
 
-Try it now! [https://3dyt.hcilab.ml](https://3dyt.hcilab.ml)
+Tente agora! [https://3dyt.hcilab.ml](https://3dyt.hcilab.ml)
 
 ## Technology
 
