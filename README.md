@@ -1,6 +1,6 @@
 # Visão geral
 
-Inside Music YouTube Edition is a web app that uses Artificial Intelligence to separate the instruments of a YouTube song, and places them in a virtual room to hear the songs in a totally inmersive environment. The original edition was created by [Song Exploder](http://songexploder.net/) and [Google Creative Lab](https://thefwa.com/) as a [WebVR Experiment](https://webvrexperiments.com) that lets you step inside a song, giving you a closer look at how music is made.
+Inside Music YouTube Edition é um aplicativo da web que usa Inteligência Artificial para separar os instrumentos de uma música do YouTube e colocá-los em uma sala virtual para ouvir as músicas em um ambiente totalmente imersivo. The original edition was created by [Song Exploder](http://songexploder.net/) and [Google Creative Lab](https://thefwa.com/) as a [WebVR Experiment](https://webvrexperiments.com) that lets you step inside a song, giving you a closer look at how music is made.
 
 The audio of the available songs is not included in this repo. To add your own YouTube audio and play it, use the interface to convert it.
 
