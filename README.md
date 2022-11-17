@@ -60,7 +60,7 @@ Você deve instalar os requisitos antes de executar o script python:
 pip install -r requirements.txt
 ```
 
-The script can be executed via command line arguments:
+O script pode ser executado por meio de argumentos de linha de comando:
 
 ```bash
 python app.py --url [YOUTUBE_VIDEO_URL]
