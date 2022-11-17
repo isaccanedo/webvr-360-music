@@ -54,7 +54,7 @@ npm run restart
 
 O código fornecido lê a lista de músicas de um URL público. Se quiser testar a ferramenta em seu ambiente local, você deve definir a variável audioDirectory como 'audio' no arquivo src/Config.js.
 
-You have to install the requirements before executing the python script:
+Você deve instalar os requisitos antes de executar o script python:
 
 ```bash
 pip install -r requirements.txt
