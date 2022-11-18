@@ -76,7 +76,7 @@ python app.py --web
 curl http://localhost:4000/?url=[YOUTUBE_VIDEO_URL]
 ```
 
-Examples:
+Examplos:
 
 ```bash
 python app.py --url https://www.youtube.com/watch?v=cNAdtkSjSps
