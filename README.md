@@ -86,7 +86,7 @@ python app.py --url https://www.youtube.com/watch?v=cNAdtkSjSps
 curl http://localhost:4000/?url=https://www.youtube.com/watch?v=cNAdtkSjSps
 ```
 
-After processing a song, you can play it in the web app by sending the video ID and the duration in seconds separated by comman in the URL hash as follows:
+Depois de processar uma música, você pode reproduzi-la no aplicativo da web enviando o ID do vídeo e a duração em segundos separados por vírgula no hash da URL da seguinte forma:
 
 ```bash
 open http://localhost:8080/#[VIDEO_ID],[DURATION_IN_SECONDS]
