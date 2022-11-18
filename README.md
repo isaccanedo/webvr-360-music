@@ -92,7 +92,7 @@ Depois de processar uma música, você pode reproduzi-la no aplicativo da web en
 open http://localhost:8080/#[VIDEO_ID],[DURATION_IN_SECONDS]
 ```
 
-Example:
+Examplo:
 
 ```bash
 open http://localhost:8080/#cNAdtkSjSps,351
